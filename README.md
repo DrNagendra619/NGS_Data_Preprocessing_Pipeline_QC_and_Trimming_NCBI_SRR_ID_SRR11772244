@@ -1,0 +1,2 @@
+# NGS_Data_Preprocessing_Pipeline_QC_and_Trimming_NCBI_SRR_ID_SRR11772244
+NGS_Data_Preprocessing_Pipeline_QC_and_Trimming_NCBI_SRR_ID_SRR11772244
